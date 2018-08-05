@@ -1,0 +1,29 @@
+body{
+  font-family: sans-serif;
+}
+.options{
+  width: 120px;
+  height: 30px;
+  border: 2px solid green;
+}
+.btn{
+  width: 120px;
+  height: 30px;
+  border: 2px solid green;
+  text-align: cneter;
+}
+
+.row{
+  padding: 10% 0 0 50%;
+
+}
+.col-1{
+  margin: auto;
+margin-bottom: 10px;
+}
+label{
+  text-transform: capitalize;
+}
+p{
+  margin-left: 8%;
+}
